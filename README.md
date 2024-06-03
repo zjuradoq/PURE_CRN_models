@@ -2,7 +2,7 @@
 [![bioRxiv](https://img.shields.io/badge/PDF-bioRxiv-red)](https://www.biorxiv.org/content/10.1101/2023.08.14.553301v1.full.pdf)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit/)
 
-Data and models repository for paper on [A chemical reaction network model of PURE] along with additional simulations and validation experiments. The folder contains all Python scripts used to simulate protein expression and plot figures seen in the paper "A chemical reaction network model of PURE" by Zoila Jurado, Ayush Pandey, and Richard M. Murray. Additionally, all simulation runs and experimental results are included.
+Data and models repository for the paper "A chemical reaction network model of PURE," along with additional simulations and validation experiments. The folder contains all Python scripts used to simulate protein expression and plot figures seen in the paper "A chemical reaction network model of PURE" by Zoila Jurado, Ayush Pandey, and Richard M. Murray. Additionally, all simulation runs and experimental results are included.
 
 # Installation
 
@@ -35,7 +35,7 @@ All generated SBML models are available in the `Models` directory.
 All scripts used to build model and plotting are located in the main folder. 
 
 ## References
-PURE CRN model is based on [Matsuura 2017](https://www.pnas.org/doi/full/10.1073/pnas.1615351114). See [PURE simulato7](https://sites.google.com/view/puresimulator) for more details.
+The PURE CRN model is based on [Matsuura 2017](https://www.pnas.org/doi/full/10.1073/pnas.1615351114). For more details, see [PURE simulatator](https://sites.google.com/view/puresimulator).
 
 # Contact
 

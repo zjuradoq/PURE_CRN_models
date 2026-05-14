@@ -1,5 +1,5 @@
 # A chemical reaction network model of PURE
-![Schematic representation of the coupled Transcription (TX) and Translation (TL) model.](img/full_model_schematics.jpg)
+![Schematic representation of the coupled Transcription (TX) and Translation (TL) model.](img/full_model_schematics.jpeg)
 
 [![bioRxiv](https://img.shields.io/badge/PDF-bioRxiv-red)](https://www.biorxiv.org/content/10.64898/2026.02.22.707325v1)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit/)

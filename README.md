@@ -57,7 +57,7 @@ SBML models:
 - All generated SBML models are available in the `Models` directory.
 
 Scripts:
--All scripts used to build model and plotting are located in the main folder. 
+- All scripts used to build model and plotting are located in the main folder. 
 
 ## Author contributions
 * **Z. J.** - Project conceptualization, mathematical model development, experimental execution, data analysis, parameter fitting, and primary manuscript writing.

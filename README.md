@@ -48,7 +48,7 @@ The following steps outline the inference pipeline used in the paper:
 
 ## Experimental data and simulation results
 Experimental data:
-- All calibration data used of this repository is available under the `Data_files` directory. Additional calibration data use can be found under the 'Calibration_MGapt','Calibration_MGapt' directory. The plasmids used in this paper are available from [myTXTL T7 Expression Kit](https://arborbiosci.com/products/cell-free-protein-synthesis/mytxtl-cell-free-expression-kits/mytxtl-t7-expression-kit/).
+- All calibration data used of this repository is available under the `Data_files` directory. Additional calibration data use can be found under the `Calibration_Curves/Calibration_MGapt' directory. The plasmids used in this paper are available from [myTXTL T7 Expression Kit](https://arborbiosci.com/products/cell-free-protein-synthesis/mytxtl-cell-free-expression-kits/mytxtl-t7-expression-kit/).
 
 Simulation Results
 - All simulations from the model are available under the `Simulation_results` directory in folders corresponding with model run. Subfolder `Nuclues_Simulations` contains, specific simulations around the separation of transcription and translation under different nucleus conditions.
